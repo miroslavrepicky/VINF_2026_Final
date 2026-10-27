@@ -1,0 +1,28 @@
+{
+  "N": 23415,
+  "vocabulary": {
+    "name": 18402,
+    "full_name": 6119,
+    "nationality": 111,
+    "teams": 11819,
+    "series": 108,
+    "tagline": 447,
+    "last_race": 957,
+    "bio": 16801,
+    "gender": 6
+  },
+  "field_weights": {
+    "name": 5.0,
+    "full_name": 3.0,
+    "nationality": 3.0,
+    "teams": 2.0,
+    "series": 2.0,
+    "tagline": 2.0,
+    "last_race": 1.0,
+    "bio": 1.0,
+    "gender": 2.0
+  },
+  "stopwords": true,
+  "idf_classic": "log10(N/df)",
+  "idf_smooth": "log10(1+N/df)"
+}

@@ -1,0 +1,116 @@
+{
+  "files": 23548,
+  "drivers": 23415,
+  "updated_existing": 23415,
+  "with_bio": 273,
+  "with_born_died_text": 13178,
+  "with_series": 22115,
+  "with_teams": 19741,
+  "with_nationality": 23276,
+  "with_last_race": 22115,
+  "with_full_name": 4772,
+  "born_full": 12913,
+  "died_missing": 18366,
+  "series_rows": 37513,
+  "without_bio": 23142,
+  "without_full_name": 18643,
+  "died_full": 4763,
+  "born_year": 368,
+  "without_teams": 3674,
+  "born_missing": 10039,
+  "without_nationality": 139,
+  "died_year": 196,
+  "died_without_born": 89,
+  "without_series": 1300,
+  "without_last_race": 1300,
+  "died_unknown": 80,
+  "skipped_duplicate": 133,
+  "born_place_only": 31,
+  "died_circa": 8,
+  "born_circa": 64,
+  "died_place_only": 2,
+  "died_before_born": 2,
+  "total_drivers_in_file": 23415,
+  "total_series_rows_in_file": 37513,
+  "pct_with_bio": 1.17,
+  "pct_with_series": 94.45,
+  "avg_series_per_driver_with_series": 1.7,
+  "top_series": [
+    [
+      "world-sportscars",
+      7927
+    ],
+    [
+      "nascar",
+      3012
+    ],
+    [
+      "non-championship-sportscars",
+      2276
+    ],
+    [
+      "fia-gt",
+      1789
+    ],
+    [
+      "indycars",
+      1559
+    ],
+    [
+      "other-gps",
+      1220
+    ],
+    [
+      "motogp",
+      1142
+    ],
+    [
+      "european-f3",
+      1064
+    ],
+    [
+      "f1",
+      988
+    ],
+    [
+      "elms",
+      975
+    ],
+    [
+      "non-championship-f1",
+      940
+    ],
+    [
+      "formule-libre",
+      920
+    ],
+    [
+      "gp",
+      732
+    ],
+    [
+      "wtcc",
+      698
+    ],
+    [
+      "lms",
+      650
+    ]
+  ],
+  "distinct_series": 97,
+  "problems_sample": [
+    {
+      "file": "database_drivers_maria-antonietta-avanzo.html",
+      "driver_id": "maria-antonietta-avanzo",
+      "issue": "died_before_born",
+      "raw": "1989-02-05 / 1977-01-17"
+    },
+    {
+      "file": "database_drivers_orio-trice.html",
+      "driver_id": "orio-trice",
+      "issue": "died_before_born",
+      "raw": "1947-09-21 / 1023-08-27"
+    }
+  ],
+  "problems_total": 2
+}
